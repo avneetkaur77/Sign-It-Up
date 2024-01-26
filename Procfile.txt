@@ -1,1 +1,1 @@
-web: streamlit run training.py
+web: streamlit run testing.py
