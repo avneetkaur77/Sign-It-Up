@@ -6,7 +6,7 @@ import pyttsx3
 
 engine = pyttsx3.init()
 
-f = open(r"C:\Users\tanu\OneDrive\Desktop\SIGNITUP3\model.p", "rb")
+f = open(r"C:\Users\tanu\OneDrive\Desktop\Projects\SIGNITUP3\model.p", "rb")
 model_dict = pickle.load(f)
 model = model_dict['model']
 

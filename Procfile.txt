@@ -1,1 +1,52 @@
-web: streamlit run testing.py
+Introduction
+The availability of nutritious food, clean air and water are essential components in fostering ecosystems for a healthy life and improved well-being. In the early twentieth century, Mahatma Gandhi (1869–1948) articulated his belief that ‘the earth provides enough to satisfy every man’s need but not every man’s greed’. He also stated that what we are doing to the forests of the world is a reflection of what we are doing to ourselves and to one another. The predictive power of his words has even greater relevance in the twenty-first century, as awareness has grown that the damage to the environment could be due to human factors, prompting action by researchers and policymakers to halt the degradation of natural resources, as exemplified in reports by the United Nations’ Intergovernmental Panel on Climate Change (IPCC), and as articulated in the Millennium and Sustainable Development Goals (SDGs).
+
+Global perspectives on changing environments
+The impact of population growth and urbanisation on natural resources
+The role of technology in raising public awareness of changing environments
+Collaborative international policy responses to evidence of changing environments
+Setting international targets
+Inter-sectoral collaboration
+Assessing research and policy impacts
+International and multidisciplinary perspectives
+Conclusion
+
+What Are Carbon Emissions?
+Carbon emissions refer to the release of carbon dioxide, a type of greenhouse gas (GHG) that filters into the atmosphere both naturally and from human activities like deforestation, electricity consumption, and industrial manufacturing. Greenhouse gas emissions trap heat in the atmosphere, leading to several changes like global warming, deterioration of the ozone layer, and destruction of ecosystems. While gases like methane and nitrous oxide are also harmful and contribute to our overall carbon footprint, carbon dioxide is the most prevalent. While plants and animals also emit carbon, human activity like the burning of fossil fuels, manufacturing, and transportation has been a leading cause of the sharp increase in CO2 emissions, at levels that are impossible for nature to balance on its own.
+
+
+Why Is Reducing Carbon Emissions Important?
+Reducing carbon emissions is important because it can help offset the dangerous and harmful effects high levels of CO2 have on our environment. Reducing carbon emissions can:
+
+Save lives. The levels of pollutants in the air can detrimentally affect our health, leading to chronic health conditions and premature death. According to researchers, poor air quality caused by carbon emissions can lead to heart attacks, strokes, lung disease, high blood pressure, and even diabetes. According to scientists, reducing carbon emissions will positively impact air quality and prevent thousands of premature deaths.
+
+Ease the burden of the healthcare system. Poor air quality exacerbates health issues for people with pre-existing chronic conditions, increasing the frequency of their healthcare visits, which can overburden the healthcare system. Taking steps to reduce these emissions makes it easier for healthcare providers to treat those in need.
+
+Reduce wildfires. Wildfires and carbon emissions are part of a harmful cycle. Wildfires emit dangerous amounts of carbon emissions, and rising carbon emissions cause extreme weather conditions like heat waves, which often contribute to wildfires. Reducing our emissions can relieve some of the burdens from forest and land management, emergency responders, and fire departments worldwide.
+
+
+Who is responsible for getting to net zero?
+We are all responsible as individuals, in terms of changing our habits and living in a way which is more sustainable, and which does less harm to the planet, making the kind of lifestyle changes which are highlighted in the UN’s Act Now campaign.
+
+The private sector also needs to get in on the act and it is doing so through the UN Global Compact, which helps businesses to align with the UN’s environmental and societal goals.
+
+It’s clear, however, that the main driving force for change will be made at a national government level, such as through legislation and regulations to reduce emissions.
+
+Many governments are now moving in the right direction. By early 2021, countries representing more than 65 per cent of global carbon dioxide emissions and more than 70 per cent of the world economy, will have made ambitious commitments to carbon neutrality.　
+
+The European Union, Japan and the Republic of Korea, together with more than 110 other countries, have pledged carbon neutrality by 2050; China says it will do so before 2060.
+
+6 Ways to Reduce Carbon Emissions
+There are many ways humankind can pitch in to help reduce carbon emissions:
+
+1. Reduce air travel. As of 2017, the amount of transportation-related carbon dioxide emissions eclipsed the amount of electricity generation emissions. Transportation is now the number-one source of greenhouse gases. Eliminating just one roundtrip transatlantic flight will save you 1.6 metric tons of carbon dioxide equivalents per year.
+
+2. Make your driving more efficient. While living a car-free lifestyle may not be possible for everybody, try substituting car trips with bike rides, bus trips, train rides, or other forms of public transportation. When you drive, cut back on fossil fuel emissions by accelerating slowly and using the air conditioning sparingly. Check your tire pressure for better fuel economy, carpool when possible, and consider purchasing a hybrid or electric vehicle if you want a new car.
+
+3. Plant trees. Deforestation is one of the significant causes of carbon emissions. Trees absorb and store the carbon dioxide in the atmosphere, but they can no longer absorb carbon once they are cut down. Planting trees is among the most inexpensive, natural ways to take climate action and reduce our negative environmental impact.
+
+4. Switch to clean energy. Clean energy is another way to help reduce carbon emissions. Solar panels, wind turbines, and geothermal energy are all energy sources with a higher level of sustainability, produce low carbon emissions, and lower our dependence on natural gas and resource harvesting.
+
+5. Eat less red meat. Over 220 grams of carbon dioxide are produced for every gram of beef produced, resulting in almost four percent of the total GHG emissions. Eating vegetarian more often or consuming less beef can lower the amount of carbon present in our atmosphere.
+
+6. Make your home more energy-efficient. If you live in a state that allows you to choose your energy supplier, the first thing you should do is look for a supplier that uses renewable energy sources. For instance, a coal-fired power plant burns fossil fuel and is more harmful to the environment than wind power or solar power. Ensure your home is adequately insulated and that doors and windows are sealed with weather stripping to prevent cooled and heated air from escaping. Lastly, reduce energy use in your everyday life: Buy appliances that meet United States energy efficiency standards, use your thermostat to regulate temperatures and try to use your air conditioning infrequently, turn off all lights and appliances when you’re not using them, and replace old lights with LED light bulbs that use less energy.

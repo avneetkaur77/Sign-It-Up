@@ -52,9 +52,3 @@ print("Accuracy Score: {}".format(score*100))
 with open('model.p', "wb") as f:
     pickle.dump({"model": model}, f)
 
-# Provide a download link for the model
-st.text("Download Model")
-st.markdown(
-    f'<a href="data:application/octet-stream;base64,{base64.b64encode(open("model.p", "rb").read()).decode()}" download="model.p">Click here</a>',
-    unsafe_allow_html=True,
-)

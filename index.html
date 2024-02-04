@@ -19,7 +19,11 @@
   </nav>
 
 
-
+  <form action="/predict_video" method="post" enctype="multipart/form-data">
+    <!-- Include video call interface here (e.g., webcam integration) -->
+    <input type="file" name="video_frames" accept="image/*" capture="user" multiple>
+    <button type="submit">Predict</button>
+  </form>
   
   <div class="content">
     <section id="home" class="home-section">
